@@ -38,7 +38,7 @@ The project transforms a traditional machinery catalog into a premium digital ex
 
 ---
 
-## 🎯 Key Objectives
+## 🎯 Key Objectives🔗
 
 - Showcase industrial machinery professionally
 - Improve customer trust and credibility
@@ -49,7 +49,7 @@ The project transforms a traditional machinery catalog into a premium digital ex
 
 ---
 
-## ✨ Features
+## ✨ Features💫
 
 ### 🎨 Modern Design
 - Clean Industrial UI
@@ -84,7 +84,7 @@ The project transforms a traditional machinery catalog into a premium digital ex
 
 ---
 
-## 🖼️ Website Sections
+## 🖼️ Website Sections👑
 
 ```text
 Home
