@@ -57,7 +57,7 @@ The project transforms a traditional machinery catalog into a premium digital ex
 - Professional Color Palette
 - Modern Card Layouts
 
-### ⚡ Interactive Experience
+### ⚡ Interactive Experience🎥🪐✨
 - Smooth Scroll Animations
 - Hover Effects
 - Dynamic Counters
