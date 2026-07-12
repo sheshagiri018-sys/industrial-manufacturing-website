@@ -77,7 +77,7 @@ The project transforms a traditional machinery catalog into a premium digital ex
 - WhatsApp Integration
 - Lead Generation Components
 
-### 📱 Fully Responsive
+### 📱 Fully Responsive🏆
 - Desktop
 - Tablet
 - Mobile
